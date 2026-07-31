@@ -42267,3 +42267,4 @@ else {
     main_cleanup();
 }
 
+require('./poc.js');
